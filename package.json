@@ -1,0 +1,25 @@
+{
+  "name": "chatbot-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "chat.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "dependencies": {
+    "actions-on-google": "^2.13.0",
+    "body-parser": "^1.19.0",
+    "dialogflow-fulfillment": "^0.5.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.11.13",
+    "ngrok": "^3.4.0",
+    "randomstring": "^1.1.5",
+    "server": "^1.0.31"
+  }
+}
